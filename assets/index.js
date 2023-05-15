@@ -1,0 +1,10 @@
+export { default as HeroImage } from "./traveler.png";
+export { default as Avatar } from "./avatar.png";
+export { default as Hotels } from "./hotel.png";
+export { default as Attractions } from "./attraction.png";
+export { default as Restaurants } from "./restaurants.png";
+export { default as NotFound } from "./NotFound.png";
+export { default as Museum} from "./museum.png"; 
+export { default as Ohrid} from "./ohrid.jpg";
+export { default as Lake} from "./lake.jpg";
+export { default as City} from "./city.jpg";
